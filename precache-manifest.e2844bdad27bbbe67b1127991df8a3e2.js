@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32709c17a71c52c688a4ece26b6c24c5",
+    "revision": "82ec139cb50e8314f920deec7f99640e",
     "url": "/solar-dashboard/index.html"
   },
   {

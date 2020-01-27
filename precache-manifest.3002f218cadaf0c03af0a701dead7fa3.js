@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "501993f4a645ea367147fd9b182ee4ce",
+    "revision": "32709c17a71c52c688a4ece26b6c24c5",
     "url": "/solar-dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solar-dashboard/static/css/2.c7d0a5a8.chunk.css"
   },
   {
-    "revision": "d27d1d356a611fa3ac79",
+    "revision": "b90d18d99b31ce6fcabf",
     "url": "/solar-dashboard/static/css/main.54da51f7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solar-dashboard/static/js/2.0893965f.chunk.js.LICENSE"
   },
   {
-    "revision": "d27d1d356a611fa3ac79",
-    "url": "/solar-dashboard/static/js/main.3140d1a7.chunk.js"
+    "revision": "b90d18d99b31ce6fcabf",
+    "url": "/solar-dashboard/static/js/main.51de27c4.chunk.js"
   },
   {
     "revision": "150bde2445632a5ae8e3",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solar-dashboard/static/css/main.54da51f7.chunk.css",
-    "main.js": "/solar-dashboard/static/js/main.13bee995.chunk.js",
-    "main.js.map": "/solar-dashboard/static/js/main.13bee995.chunk.js.map",
+    "main.js": "/solar-dashboard/static/js/main.3140d1a7.chunk.js",
+    "main.js.map": "/solar-dashboard/static/js/main.3140d1a7.chunk.js.map",
     "runtime-main.js": "/solar-dashboard/static/js/runtime-main.95dc24f5.js",
     "runtime-main.js.map": "/solar-dashboard/static/js/runtime-main.95dc24f5.js.map",
     "static/css/2.c7d0a5a8.chunk.css": "/solar-dashboard/static/css/2.c7d0a5a8.chunk.css",
     "static/js/2.0893965f.chunk.js": "/solar-dashboard/static/js/2.0893965f.chunk.js",
     "static/js/2.0893965f.chunk.js.map": "/solar-dashboard/static/js/2.0893965f.chunk.js.map",
     "index.html": "/solar-dashboard/index.html",
-    "precache-manifest.7771fb962295b81350dce225023e5453.js": "/solar-dashboard/precache-manifest.7771fb962295b81350dce225023e5453.js",
+    "precache-manifest.a5bfb536d87a25a0f59e41d6ad4717b1.js": "/solar-dashboard/precache-manifest.a5bfb536d87a25a0f59e41d6ad4717b1.js",
     "service-worker.js": "/solar-dashboard/service-worker.js",
     "static/css/2.c7d0a5a8.chunk.css.map": "/solar-dashboard/static/css/2.c7d0a5a8.chunk.css.map",
     "static/css/main.54da51f7.chunk.css.map": "/solar-dashboard/static/css/main.54da51f7.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.c7d0a5a8.chunk.css",
     "static/js/2.0893965f.chunk.js",
     "static/css/main.54da51f7.chunk.css",
-    "static/js/main.13bee995.chunk.js"
+    "static/js/main.3140d1a7.chunk.js"
   ]
 }

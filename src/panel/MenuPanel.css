@@ -1,0 +1,8 @@
+.menu-container {
+    height: 100%;
+    width: 60px;
+    background-color: #FFFFFF;
+    border-right: 4px #F0F1F5 solid;
+    float: left;
+    padding: 8px;
+}

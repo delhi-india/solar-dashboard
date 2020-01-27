@@ -1,0 +1,401 @@
+{
+    "data": [
+      {
+        "_id": "meerabaiinstituteoftechnology",
+        "info": {
+          "powerCapacity": 100.5,
+          "name": "IPGCL Meerabai College",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "pitacademicblock100kw",
+        "info": {
+          "powerCapacity": 151,
+          "name": "IPGCL PIT",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "satyawaticollege",
+        "info": {
+          "powerCapacity": 98.9,
+          "name": "IPGCL Satyawati College",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "kitpitampura",
+        "info": {
+          "powerCapacity": 250.2,
+          "name": "IPGCL KIT Pitampura",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "58342",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "43707",
+        "info": {
+          "name": "D/2 Court Lane",
+          "powerCapacity": 5
+        }
+      },
+      {
+        "_id": "58378",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "ait82kw",
+        "info": {
+          "powerCapacity": 60,
+          "name": "Demo104",
+          "location": {
+            "latitude": 28.704,
+            "longitude": 77.01
+          }
+        }
+      },
+      {
+        "_id": "itijaffarpur",
+        "info": {
+          "powerCapacity": 73,
+          "name": "IPGCL ITI Jaffarpur",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "dtu",
+        "info": {
+          "powerCapacity": 432,
+          "name": "IPGCL 1MWp DTU",
+          "location": {
+            "latitude": 28.7501,
+            "longitude": 77.1177
+          }
+        }
+      },
+      {
+        "_id": "itimangolpuri",
+        "info": {
+          "powerCapacity": 60,
+          "name": "IPGCL ITI MANGOLPURI",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "sscbs",
+        "info": {
+          "powerCapacity": 76,
+          "name": "IPGCL 1MWp SSCBS",
+          "location": {
+            "latitude": 28.363287,
+            "longitude": 77.020625
+          }
+        }
+      },
+      {
+        "_id": "iiitd",
+        "info": {
+          "powerCapacity": 180,
+          "name": "IPGCL IIIT Delhi",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "55464",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "igdtuw",
+        "info": {
+          "powerCapacity": 168,
+          "name": "IPGCL 1MWp IGDTUW",
+          "location": {
+            "latitude": 28.6652,
+            "longitude": 77.2324
+          }
+        }
+      },
+      {
+        "_id": "58260",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "58348",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "58292",
+        "info": {
+          "name": "my plant",
+          "powerCapacity": 30.0
+        }
+      },
+      {
+        "_id": "55505",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "delhihaat",
+        "info": {
+          "powerCapacity": 50,
+          "name": "IPGCL Dilli Haat",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "55602",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "58905",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "itipusa",
+        "info": {
+          "powerCapacity": 100,
+          "name": "IPGCL ITI Pusa",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "55152",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "58407",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "58408",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "55448",
+        "info": {
+          "name": "IPGCL",
+          "powerCapacity": 30.0
+        }
+      },
+      {
+        "_id": "59106",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "itijailroad",
+        "info": {
+          "powerCapacity": 90,
+          "name": "IPGCL ITI JAIL ROAD",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "maulanaazadmedicalcollege",
+        "info": {
+          "powerCapacity": 199.7,
+          "name": "IPGCL MAULANA AZAD MEDICAL COLLEGE",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "55610",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "59093",
+        "info": {
+          "name": "my plant",
+          "powerCapacity": 4.2
+        }
+      },
+      {
+        "_id": "58409",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "55628",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "nsit",
+        "info": {
+          "powerCapacity": 324,
+          "name": "IPGCL 1MWp NSIT",
+          "location": {
+            "latitude": 28.6091,
+            "longitude": 77.0351
+          }
+        }
+      },
+      {
+        "_id": "58337",
+        "info": {
+          "name": "IPGCL",
+          "powerCapacity": 4.2
+        }
+      },
+      {
+        "_id": "iticvraman",
+        "info": {
+          "powerCapacity": 100,
+          "name": "IPGCL Sir CV Raman ITI",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "deendayalupadhyaycollege",
+        "info": {
+          "powerCapacity": 151.2,
+          "name": "IPGCL Deen Dayal Upadhyay College",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "btcpusa110kw",
+        "info": {
+          "powerCapacity": 110,
+          "name": "IPGCL BTC PUSA",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "55135",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "55155",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "55590",
+        "info": {
+          "name": "IPGCL"
+        }
+      },
+      {
+        "_id": "ihbas",
+        "info": {
+          "powerCapacity": 261.6,
+          "name": "IPGCL IHBAS",
+          "location": {
+            "latitude": 28.6802,
+            "longitude": 77.3058
+          }
+        }
+      },
+      {
+        "_id": "aurobindo",
+        "info": {
+          "powerCapacity": 49.3,
+          "name": "IPGCL Aurobindo College",
+          "location": {
+            "latitude": 28.67,
+            "longitude": 77.18
+          }
+        }
+      },
+      {
+        "_id": "kalindicillege",
+        "info": {
+          "powerCapacity": 61.8,
+          "name": "IPGCL Kalindi College",
+          "location": {
+            "latitude": 28.6,
+            "longitude": 77.03
+          }
+        }
+      },
+      {
+        "_id": "58415",
+        "info": {
+          "name": "my plant"
+        }
+      },
+      {
+        "_id": "82517",
+        "info": {
+          "name": "khetan"
+        }
+      }
+    ]
+  }

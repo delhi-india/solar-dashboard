@@ -1,0 +1,56 @@
+.panel-container {
+    height: 100%;
+    width: 100%;
+    background-color: #F5F6FA;
+    float: left;
+    padding: 30px;
+    overflow: scroll;
+}
+
+.time-container {
+    background-color: #F2F2F4;
+    border: 1px #C6C6C6 solid;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.time-container > h3 {
+    text-align: center;
+    color: #898989;
+    margin-bottom: 20px;
+}
+
+.panel-container > h2 {
+    margin-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.info-box {
+    background-color: #FFFFFF;
+    border-top: 3px #507AFF solid;
+    padding: 5px;
+    margin-bottom: 20px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.ele-name {
+    font-size: 0.7em;
+    display: block;
+    margin-top: 5px;
+    min-height: 30px;
+}
+
+.ele-value {
+    font-size: 1.9em;
+    margin-top: 10px;
+    display: block;
+}
+
+.ele-unit {
+    font-size: 0.6em;
+    display: block;
+    margin-bottom: 5px;
+}
